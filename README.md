@@ -14,12 +14,12 @@ Drop stylesheet in your src and link via `head` in your view.
 <link rel='stylesheet' href='neon-styles.css'>
 ```
 
-## Running the tests
+## Usage
 
 * Simply add the class `neon-contents` to the text you'd like to have neon applied to.
 * Use the class `neon-icons` for a smaller text size for icons or captions.
 
-### Break down into end to end tests
+### Usage with Customization
 
 * To change the color of the sign, simple replace the text-border colors with your own!
 * Recommendation to leave white `#fff` as the initial color for effect.
